@@ -1,0 +1,12 @@
+package enumeration
+
+const (
+	SUCCESS				= 0
+	ERROR				= -1
+	TOKEN_INVALID		= 1001
+
+	INSERT_FAILED		= 1002
+	DELETE_FAILED		= 1003
+	UPDATE_FAILED		= 1004
+	FIND_FAILED			= 1005
+)
