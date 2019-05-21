@@ -2,11 +2,11 @@ package user
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/ninorain22/gintest/model"
-	"github.com/ninorain22/gintest/common"
-	"github.com/ninorain22/gintest/manager"
+	"github.com/ninorain22/gin_starter/model"
+	"github.com/ninorain22/gin_starter/common"
+	"github.com/ninorain22/gin_starter/manager"
 	"strconv"
-	"github.com/ninorain22/gintest/enumeration"
+	"github.com/ninorain22/gin_starter/enumeration"
 	)
 
 func Add(c *gin.Context) {

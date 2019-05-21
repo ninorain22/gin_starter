@@ -1,7 +1,7 @@
 package manager
 
 import (
-	"github.com/ninorain22/gintest/config"
+	"github.com/ninorain22/gin_starter/config"
 	"time"
 	"github.com/redigo/redis"
 )

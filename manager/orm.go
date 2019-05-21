@@ -3,7 +3,7 @@ package manager
 import (
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/go-xorm/xorm"
-	"github.com/ninorain22/gintest/config"
+	"github.com/ninorain22/gin_starter/config"
 	"fmt"
 	"os"
 	"github.com/go-xorm/core"

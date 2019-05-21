@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/ninorain22/gintest/router"
+	"github.com/ninorain22/gin_starter/router"
 )
 
 func main()  {

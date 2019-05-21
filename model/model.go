@@ -1,7 +1,7 @@
 package model
 
 import (
-	"github.com/ninorain22/gintest/manager"
+	"github.com/ninorain22/gin_starter/manager"
 	"fmt"
 	)
 

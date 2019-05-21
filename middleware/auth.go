@@ -3,8 +3,8 @@ package middleware
 import (
 	"github.com/gin-gonic/gin"
 	"fmt"
-		"github.com/ninorain22/gintest/common"
-	"github.com/ninorain22/gintest/enumeration"
+		"github.com/ninorain22/gin_starter/common"
+	"github.com/ninorain22/gin_starter/enumeration"
 )
 
 func TokenValidRequired(c *gin.Context) {

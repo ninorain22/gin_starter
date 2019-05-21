@@ -6,7 +6,7 @@ import (
 	"os"
 	"regexp"
 	"encoding/json"
-	"github.com/ninorain22/gintest/util"
+	"github.com/ninorain22/gin_starter/util"
 	"github.com/shen100/golang123/utils"
 	"time"
 )

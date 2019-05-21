@@ -3,7 +3,7 @@ package common
 import (
 	"net/http"
 	"github.com/gin-gonic/gin"
-	"github.com/ninorain22/gintest/enumeration"
+	"github.com/ninorain22/gin_starter/enumeration"
 )
 
 // SendErrJSON 有错误发生时，发送错误JSON
